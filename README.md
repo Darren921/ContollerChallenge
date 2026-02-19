@@ -12,3 +12,10 @@ Then using this as a base we created a prototype to test the inputs.
 
 <img width="951" height="713" alt="image" src="https://github.com/user-attachments/assets/ada49fda-24c8-443d-8ce7-7d2c61ba9d2f" />
 
+Video of the Wokwi prototype: 
+
+https://youtu.be/rear8htEvOY 
+
+Using this as a base we recreated this with the physical hardware that we had 
+
+![rn_image_picker_lib_temp_292455cd-14e1-4821-b156-43c066c3874e](https://github.com/user-attachments/assets/869cbaad-fb56-478b-a34d-176899532258)
