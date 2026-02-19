@@ -37,3 +37,5 @@ When testing with the physical model we ran into an issue, the accelerometer was
 
 ![rn_image_picker_lib_temp_292455cd-14e1-4821-b156-43c066c3874e](https://github.com/user-attachments/assets/a2dd0f46-e9c1-4804-a5ee-02fe8dfa7d0f)
 
+Since we were unable to get the physical model working, We created a mockup in unity to showcase what it would have looked like if it had been working.  
+
