@@ -41,3 +41,6 @@ When testing with the physical model we ran into an issue, the accelerometer was
 
 Since we were unable to get the physical model working, We created a mockup in unity to showcase what it would have looked like if it had been working.  
 
+
+Reflection and final notes:
+
