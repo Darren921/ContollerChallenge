@@ -19,3 +19,9 @@ https://youtu.be/rear8htEvOY
 Using this as a base we recreated this with the physical hardware that we had 
 
 ![rn_image_picker_lib_temp_292455cd-14e1-4821-b156-43c066c3874e](https://github.com/user-attachments/assets/869cbaad-fb56-478b-a34d-176899532258)
+
+
+
+
+https://github.com/user-attachments/assets/e1dd3a90-6487-462e-8292-ae51cfb94643 
+
