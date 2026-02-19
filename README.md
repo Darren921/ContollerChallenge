@@ -8,4 +8,7 @@ The goal of this project was to create a unique way of playing Patapon using mot
 
 We first created a prototype online using Wokwi to test the inputs.
 
+Then using this as a base we created a prototype to test the inputs. 
+
 <img width="951" height="713" alt="image" src="https://github.com/user-attachments/assets/ada49fda-24c8-443d-8ce7-7d2c61ba9d2f" />
+
