@@ -54,14 +54,14 @@ The resistors on Wokwi are larger than in TinkerCad, which caused some issues.\
 Wokwi documentation was targeted for the Arduino Uno, so caused some confusion with wiring on some components.\
 Using the Arduino and breadboard is much easier to connect and trouble shoot as not all the wires are on the breadboard itself.\
 Having 
-Most of our difficulties were due to our lack of experience working with custom hardware. \
+Most of our difficulties were due to our lack of experience working with custom hardware. 
 
 
 Alex  H: /
 Found out that Ardity does indeed work with any version of unity, it's just that one of the prefabs was broken, after it was deleted it works fine. \
 Project would have taken much less time if we were familiar with the software and hardware we were using, if we did this a second time, it would be much quicker\
 As someone who is not that experienced with coding, understanding what needed to be done was difficult \
-Not familiar with Wokwi which made it difficult to navigate. \
+Not familiar with Wokwi which made it difficult to navigate. 
 
 
 
@@ -71,6 +71,6 @@ I accidentally fried the mpu9250 but initial texts were successful.\
 Hardware implementation was carried out as planned with no wires touching each other.\
 Maintained safety and avoided any accidental short circuit. \
 I would count it as a progress as I had little to no experience in electrical and hardware. \
-Did scare me at first. Checking each connection multiple times before plugging it in.\
+Did scare me at first. Checking each connection multiple times before plugging it in.
 
 
