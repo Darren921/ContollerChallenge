@@ -14,7 +14,11 @@ Then using this as a base we created a prototype to test the inputs.
 
 Video of the Wokwi prototype: 
 
-https://youtu.be/rear8htEvOY 
+
+
+https://github.com/user-attachments/assets/5484ec53-6cc0-4aff-8097-b7a4538be247
+
+
 
 Using this as a base we recreated this with the physical hardware that we had 
 
