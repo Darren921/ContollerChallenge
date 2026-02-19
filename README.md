@@ -1,3 +1,5 @@
+Self reflection is at the bottom
+
 Darren - Unity software and programming work
 
 Alex - reflections and online Hardware planning
