@@ -48,7 +48,7 @@ Since we were unable to get the physical model working, We created a mockup in u
 
 Reflection and final notes:
 
-Darren Chung:/
+Darren Chung:\
 Originally having issues with Wokwi due to being unfamiliar with the software.\
 The resistors on Wokwi are larger than in TinkerCad, which caused some issues.\
 Wokwi documentation was targeted for the Arduino Uno, so caused some confusion with wiring on some components.\
@@ -57,7 +57,7 @@ Having
 Most of our difficulties were due to our lack of experience working with custom hardware. 
 
 
-Alex  H: /
+Alex  H: \
 Found out that Ardity does indeed work with any version of unity, it's just that one of the prefabs was broken, after it was deleted it works fine. \
 Project would have taken much less time if we were familiar with the software and hardware we were using, if we did this a second time, it would be much quicker\
 As someone who is not that experienced with coding, understanding what needed to be done was difficult \
