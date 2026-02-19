@@ -27,3 +27,6 @@ Video of the physical prototype:
 
 https://github.com/user-attachments/assets/e1dd3a90-6487-462e-8292-ae51cfb94643 
 
+To replicate the mechanics of patapon, we recorded each direction of the accelerometer as a unique number, using these numbers we could record the last 4 inputs, and if they matched a predetermined pattern, it would call a variable. 
+
+When testing with the physical model we ran into an issue, the accelerometer was broken and not recording any inputs, this made it impossible to continue with the project as we had no way of recording our inputs. 
